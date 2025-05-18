@@ -36,4 +36,4 @@ It allows users to perform **addition** and **subtraction** of two square matric
 ##  How to Run
 
 ```bash
-python matrix_app.py
+python inicio.py
